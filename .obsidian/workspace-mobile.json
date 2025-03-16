@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "--TOPICS--/Networking in C.md",
+                "file": "--MODELO--/Model - riscv.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Networking in C"
+              "title": "Model - riscv"
             }
           }
         ],
@@ -181,6 +181,26 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "5e0dc45e57107386",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "ba2a2b36a8e5a62e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -199,7 +219,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b09eadf65e4d9027",
+  "active": "ba2a2b36a8e5a62e",
   "lastOpenFiles": [
     "--TOPICS--/Networking in C.md"
   ]
