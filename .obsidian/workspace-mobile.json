@@ -221,8 +221,9 @@
   },
   "active": "eb394c6843fc7449",
   "lastOpenFiles": [
-    "Welcome.md",
     "--MODELO--/Model - riscv.md",
+    "--MODELO--/Model.md",
+    "Welcome.md",
     "--TOPICS--/Networking in C.md"
   ]
 }
