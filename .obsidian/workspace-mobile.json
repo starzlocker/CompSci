@@ -171,6 +171,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "b09eadf65e4d9027",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -189,7 +199,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "eb394c6843fc7449",
+  "active": "b09eadf65e4d9027",
   "lastOpenFiles": [
     "--TOPICS--/Networking in C.md"
   ]
