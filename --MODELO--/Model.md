@@ -1,2 +1,0 @@
-{{date}}, às {{time}}
-tags:

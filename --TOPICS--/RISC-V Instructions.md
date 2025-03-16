@@ -1,2 +1,0 @@
-#isa #risc-v
-
