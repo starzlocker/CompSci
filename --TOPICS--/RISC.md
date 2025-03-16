@@ -1,0 +1,2 @@
+2024-07-31, 21:01
+Reduced Instruction Set Computer é uma filosofia de arquitetura de processadores em que se preza por instruções menores e mais simples, capazes de executar em um ciclo de clock (~1ns), registradores eficientes e pipeline simples e direto. Foi uma resposta à [[CISC]], mas não foi um sucesso como solução individual, ao invés disso, essa arquitetura foi incorporada à [[CISC]] e as arquiteturas de hoje usam uma mesclagem dos dois.
