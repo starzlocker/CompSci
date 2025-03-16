@@ -1,1 +1,1 @@
-oie oioi
+um socket é um socket

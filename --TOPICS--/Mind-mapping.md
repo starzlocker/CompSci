@@ -5,3 +5,4 @@
 ## Prática
 - Você aprende diferentes tópicos, aprende a fazer algo que envolva tudo, agora você deve misturar os conceitos e usar o que aprendeu para fazer uma coisa completamente diferente.
 
+Algumas coisas sáo fedidas
