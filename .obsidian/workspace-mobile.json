@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "--MODELO--/Model - riscv.md",
+                "file": "--MODELO--/Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Model - riscv"
+              "title": "Model"
             }
           }
         ],
@@ -219,8 +219,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ba2a2b36a8e5a62e",
+  "active": "eb394c6843fc7449",
   "lastOpenFiles": [
+    "--MODELO--/Model - riscv.md",
     "--TOPICS--/Networking in C.md"
   ]
 }
