@@ -9,7 +9,7 @@
 		{"id":"b8dd066aafb11631","type":"text","text":"# **RISC-V**","x":320,"y":162,"width":162,"height":66},
 		{"id":"4d903e5da756605d","type":"text","text":"#### **R-Type**\n- Instruções entre registradores\n- Composto por FUNCT7, RS1, RS2, RSD, FUNCT3, OPCODE\n- ADD e SUB","x":-1200,"y":-80,"width":320,"height":242,"color":"2"},
 		{"id":"979805bda389daad","type":"text","text":"#### **I-Type**\n- Instruções com imediatos\n- Composto por IMM, RS1, RSD, FUNCT3 e OPCODE\n- ADDI, SUBI e LW","x":-840,"y":-80,"width":320,"height":242,"color":"2"},
-		{"id":"ff4f2896e91ae238","type":"file","file":"Untitled/Untitled.png","x":-760,"y":-400,"width":400,"height":214}
+		{"id":"ff4f2896e91ae238","type":"file","file":"media/Untitled.png","x":-760,"y":-400,"width":400,"height":214}
 	],
 	"edges":[
 		{"id":"71cf5486ac5acce3","fromNode":"a934850d813e51be","fromSide":"left","toNode":"82917625b24a2674","toSide":"right"},
