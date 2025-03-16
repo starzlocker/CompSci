@@ -1,0 +1,3 @@
+- then reduction
+- Promise.all
+- await vs then

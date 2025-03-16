@@ -1,0 +1,9 @@
+- [ ] bota pn
+- [x] aquecedor
+- [x] svd
+- [x] cx plast
+- [x] brac unica
+- [ ] lipo
+- [x] afast
+- [x] regua
+- [ ] 
