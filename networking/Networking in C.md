@@ -7,8 +7,9 @@ Essas funções convertem binários com multiplos bytes (como um long e um short
 
 ``` 
 A ordem natural de um binário é big-endian:
-|8|7|6|5| |4|3|2|1|
+|78|56|34|12|
+
 
 Little endian
-|4|3|2|1| |8|7|6|5|
+|12|34|56|78|
 ```
