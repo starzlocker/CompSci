@@ -1,3 +1,3 @@
-- sin_family: a famili
-- sin_port:
+- sin_family: a familia de endereços usada (AF_INET e AF_INET6)
+- sin_port: a porta, deve ser convertida para little-endian com htons
 - sin_addr.s_addr:
