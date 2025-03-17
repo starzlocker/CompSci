@@ -1,1 +1,1 @@
-um socket é um socket
+- 
