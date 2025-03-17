@@ -1,1 +1,3 @@
-- 
+- sin_family: a famili
+- sin_port:
+- sin_addr.s_addr:
