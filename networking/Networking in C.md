@@ -12,3 +12,5 @@ A ordem natural de um binário é big-endian:
 Little endian
 |12|34|56|78|
 ```
+
+Para evitar erros de comunicação: sempre que se passa uma estrutura desse tipo pela rede, é necessário converter essas estruturas e converte-las de volta no recebimento.
