@@ -201,8 +201,8 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
-          "icon": "SpacedRepIcon",
-          "title": "Notes Review Queue"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       }
     ],
@@ -215,15 +215,47 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "eb394c6843fc7449",
   "lastOpenFiles": [
-    "--MODELO--/Model - riscv.md",
-    "--MODELO--/Model.md",
-    "Welcome.md",
-    "--TOPICS--/Networking in C.md"
+    "media/Dynamic Linked Libraries 1.png",
+    "media/RISC-V.canvas",
+    "media/Sem título 1.canvas",
+    "media/Sem título.canvas",
+    "media/Untitled.png",
+    "media/Dynamic Linked Libraries.png",
+    "media/Dynamic Linked Libraries.jpg",
+    "media",
+    "risc-v/RISC-V Registers.md",
+    "risc-v/MIPS.md",
+    "risc-v/RISC-V Instructions.md",
+    "risc-v/Conjunto de Instruções.md",
+    "risc-v/Compilação em C.md",
+    "risc-v/Computer Architecture.md",
+    "risc-v/Ponteiros.md",
+    "risc-v/RISC-V Procedures.md",
+    "risc-v/Registradores.md",
+    "risc-v/RISC-V.md",
+    "risc-v/Modelos de Arquitetura.md",
+    "risc-v/RISC-V Recursion.md",
+    "risc-v/RISC.md",
+    "risc-v/Spilling Registers.md",
+    "risc-v",
+    "models/Model - riscv.md",
+    "models/Model.md",
+    "models",
+    "networking/Networking in C.md",
+    "networking",
+    "misc/Python.md",
+    "misc/Sumário.md",
+    "misc/CISC.md",
+    "misc/Untitled.md",
+    "misc/Mind-mapping.md",
+    "misc/Teste.md",
+    "misc/Promises.md",
+    "misc",
+    "--MODELO--/Model - riscv.md"
   ]
 }
