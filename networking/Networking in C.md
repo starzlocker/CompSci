@@ -1,3 +1,3 @@
 - sin_family: a familia de endereços usada (AF_INET e AF_INET6)
-- sin_port: a porta, deve ser convertida para little-endian com htons
-- sin_addr.s_addr:
+- sin_port: a porta, deve ser convertida para big-endian com htons
+- sin_addr.s_addr: no cliente é o endereço com o qual ele se conecta e no servidr é o endereço que espera as conexões
