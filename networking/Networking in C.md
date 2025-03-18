@@ -94,3 +94,6 @@ Little endian
 ```
 
 Para evitar erros de comunicação: sempre que se passa uma estrutura desse tipo pela rede, é necessário converter essas estruturas e converte-las de volta no recebimento.
+
+#### Padding
+- Structs são alinhadas pela maior estrutura
