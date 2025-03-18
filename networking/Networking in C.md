@@ -2,6 +2,8 @@
 - Sockets são a interface pela qual computadores conversam na rede;
 - São identificados pelo endereço IP, porta e protocolo
 - Um mesmo socket pode ser acessado de diferentes aplicações no host
+### Pointers
+- **&** points to a single data, structures don't need
 
 ## Criando Sockets
 - PF_INET (PROTOCOL_FAMILY_INTERNET) e AF_INET (ADDRESS_FAMILY_INTERNET) - Existe um esquema de endereçamento para cada familia de protocolo (embora exista a possibilidade de ampliar), inclusive, AF_INET e PF_INET são intercambiáveis
