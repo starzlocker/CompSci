@@ -11,5 +11,5 @@ HTTP 1/1 200 ok\r\n
 \r\n: são os caracteres *return carriage* e *line feed*. Cada sistema operacional implementa o comando de nova linha, mas para HTTP, o padrão é esse.
 
 ```
-Connection-type: keep-alive
+Connection: Keep-alive
 ```
