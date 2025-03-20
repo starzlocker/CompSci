@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Networking in C"
             }
+          },
+          {
+            "id": "b3416b32b343f10d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Application Layer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Application Layer"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,8 +233,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb394c6843fc7449",
+  "active": "b3416b32b343f10d",
   "lastOpenFiles": [
+    "networking/Networking in C.md",
+    "Application Layer.md",
     "media/Dynamic Linked Libraries 1.png",
     "media/RISC-V.canvas",
     "media/Sem título 1.canvas",
@@ -247,7 +263,6 @@
     "models/Model - riscv.md",
     "models/Model.md",
     "models",
-    "networking/Networking in C.md",
     "networking",
     "misc/Python.md",
     "misc/Sumário.md",
