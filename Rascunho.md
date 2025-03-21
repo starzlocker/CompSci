@@ -8,6 +8,7 @@ Além do Content-eength, exuste o envio de dados em chunks com tamanho predefini
 
 ```C
 req = "...headers, MENOS O Content-Length"
+"Transfer-encoding: chuncked"
 "\r\n"
 "a"
 "Hello motor"
