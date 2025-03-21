@@ -7,7 +7,7 @@ HTTP Chunks
 Além do Content-eength, exuste o envio de dados em chunks com tamanho predefinido por um hexadecimal.
 
 ```C
-req = "...headers"
+req = "...headers, MENOS O Content-Length"
 "\r\n"
 "a"
 "Hello motor"
