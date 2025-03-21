@@ -233,8 +233,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64a7d8f1a55f3ce3",
+  "active": "b3416b32b343f10d",
   "lastOpenFiles": [
+    "Grupos Unicode.md",
     "networking/Networking in C.md",
     "Application Layer.md",
     "media/Dynamic Linked Libraries 1.png",
@@ -271,7 +272,6 @@
     "misc/Mind-mapping.md",
     "misc/Teste.md",
     "misc/Promises.md",
-    "misc",
-    "--MODELO--/Model - riscv.md"
+    "misc"
   ]
 }
