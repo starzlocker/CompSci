@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Application Layer"
             }
+          },
+          {
+            "id": "6d0da98bb542a513",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rascunho.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rascunho"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +141,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Application Layer.md",
+            "file": "Rascunho.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -233,11 +247,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3416b32b343f10d",
+  "active": "6d0da98bb542a513",
   "lastOpenFiles": [
+    "Application Layer.md",
+    "Rascunho.md",
     "Grupos Unicode.md",
     "networking/Networking in C.md",
-    "Application Layer.md",
     "media/Dynamic Linked Libraries 1.png",
     "media/RISC-V.canvas",
     "media/Sem título 1.canvas",
@@ -271,7 +286,6 @@
     "misc/Untitled.md",
     "misc/Mind-mapping.md",
     "misc/Teste.md",
-    "misc/Promises.md",
     "misc"
   ]
 }
