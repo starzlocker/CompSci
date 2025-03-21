@@ -16,7 +16,7 @@ HTTP 1/1 200 ok\r\n
 /*
 Especifica se haverão mais requisicões do cliente nessa mesma conexão
 */
-"date "
+"date", "etag", ""
 "\r\n\r\n"
 
 ```
