@@ -18,6 +18,7 @@ Especifica se haverão mais requisicões do cliente nessa mesma conexão
 */
 "Date", "Etag", "Expires", "Last-modified"
 /* Headers de cache */
+"Content-length": "1024"
 "\r\n\r\n"
 
 ```
