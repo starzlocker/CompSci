@@ -16,7 +16,8 @@ HTTP 1/1 200 ok\r\n
 /*
 Especifica se haverão mais requisicões do cliente nessa mesma conexão
 */
-"date", "etag", ""
+"Date", "Etag", "Expires", "Last-modified"
+/* Headers de cache */
 "\r\n\r\n"
 
 ```
